@@ -1,0 +1,101 @@
+msgid "Sélectionner le dossier contenant les fichiers pack.mcmeta, pack.png et le dossier assets"
+msgstr "Select the folder containing the files pack.mcmeta, pack.png and the assets folder"
+
+msgid "Erreur : Les fichiers ou dossiers requis n'ont pas été trouvés dans le dossier spécifié."
+msgstr "Error: The required files or folders were not found in the specified folder."
+
+msgid "Le pack pour la version {minecraft_versions[pack_format_int.index(version)]} a été exporté avec succès."
+msgstr "The pack for version {minecraft_versions[pack_format_int.index(version)]} has been successfully exported."
+
+msgid "Toutes les versions du pack ont été exportées."
+msgstr "All versions of the pack have been exported."
+
+msgid "Exportateur de packs Minecraft"
+msgstr "Minecraft pack exporter"
+
+msgid "Sélectionnez les versions dans lesquelles vous souhaitez exporter votre pack de texture :"
+msgstr "Select the versions into which you wish to export your texture pack:"
+
+msgid "Choisir le fichier à exporter"
+msgstr "Choose the file to export"
+
+msgid "Application"
+msgstr "Application"
+
+msgid "Langue"
+msgstr "Language"
+
+msgid "Quitter"
+msgstr "Exit"
+
+msgid "La langue a été modifiée. L'application va redémarrer."
+msgstr "The language has been changed. The application will restart."
+
+msgid "Cette application vous permet d'exporter votre ressource pack dans 4 grandes versions :\n1.16.X;\n1.17.X\n1.18.X\n1.19.X\n sélectionne le dossier de votre pack de ressource et l'application vous fournit 4 fichier (.zip) dans lesquelles se retrouverons, votre fichier (pack.mcmeta) votre logo (pack.png) et votre ressource pack dans un dossier (assets)."
+msgstr "This application lets you export your resource pack in 4 major versions:\n1.16.X;\n1.17.X;\n1.18.X;\n1.19.X\n Select your resource pack folder and the application provides you with 4 files (.zip) containing your file (pack.mcmeta), your logo (pack.png) and your resource pack in a folder (assets)."
+
+msgid "À propos"
+msgstr "About us"
+
+msgid "Aide"
+msgstr "Help"
+
+msgid "Exporter les packs"
+msgstr "Export packs"
+
+msgid "Entrez le nom de votre ressource pack (cliquez sur 'version' pour inscrire la version automatiquement lors de l'export) :"
+msgstr "Enter the name of your resource pack (click on 'version' to enter the version automatically when exporting):"
+
+msgid "Sélectionnez le dossier contenant 1 dossier ('assets') et 2 fichiers ('pack.mcmeta' & 'pack.PNG') :"
+msgstr "Select the folder containing 1 folder ('assets') and 2 files ('pack.mcmeta' & 'pack.PNG') :"
+
+msgid "L'exportation des packs est terminée. Voulez-vous ouvrir le dossier d'exportation ?"
+msgstr "Pack export is now complete. Would you like to open the export folder?"
+
+msgid "Vidéo Tutoriel"
+msgstr "Video Tutorial"
+
+msgid "Rechercher une mise à jour"
+msgstr "Search for an update"
+
+msgid "Demande de mise à jour"
+msgstr "Update request"
+
+msgid "Vous êtes à jour, ne vous inquiétez pas."
+msgstr "Don't worry, you're up to date."
+
+msgid "App version"
+msgstr "Application version"
+
+msgid "Voici la version de votre application : {local_version} \nVoici la version en ligne actuelle : {online_version} "
+msgstr "Here is the version of your application: {local_version} \nHere is the current online version: {online_version} "
+
+msgid "Une mise à jour de l'application est disponible. Voulez-vous la télécharger ?\nVersion de votre application : {local_version} \nVersion en ligne actuelle : {online_version}"
+msgstr "An application update is available. Would you like to download it? \nYour application version : {local_version} \nCurrent online version : {online_version} "
+
+msgid "Mise à jour"
+msgstr "Update"
+
+msgid "Sélectionner toutes les versions."
+msgstr "Select all versions."
+
+msgid "Désélectionner toutes les versions."
+msgstr "Deselect all versions."
+
+msgid "Pas de connexion internet !"
+msgstr "No internet connection!"
+
+msgid "Cette application a été codée par MarcusIsLion.\n Tous les droits sont réservés. Voici quelques règles d'utilisation :\n 1) Ne pas revendre l'application ou la partager gratuitement.\n 2) Ne pas modifier l'application.\n 3) Pour toute demande particulière, veuillez envoyer un mail à"
+msgstr "This application was coded by MarcusIsLion. \nAll rights reserved. Here are some rules of use:\n1) Do not resell the application or share it for free.\n2) Do not modify the application.\n3) For any special request, please send an email to"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Ressource Pack Reformer"
+msgstr "Resource Pack Reformer"
+
+msgid "Data Pack Reformer"
+msgstr "Data Pack Reformer"
+
+msgid "Sélectionnez les versions dans lesquelles vous souhaitez exporter votre data pack :"
+msgstr "Select the versions in which you wish to export your data pack:"
